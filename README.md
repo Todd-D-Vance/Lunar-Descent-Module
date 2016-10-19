@@ -4,7 +4,10 @@ Land on the moon without running out of fuel
 ## 1 Game Concept
 
 Control the Apollo 11 Lunar lander to locate a suitable landing spot, then touch
-down gently without running out of fuel.
+down gently without running out of fuel.  Attempt to make look, sound, and physics 
+3D and realistic.  Some concessions to gameplay though, such as third-person camera
+and music, as well as the ability to pause, and in basic mode, indicators and guages
+the Apollo 11 LM didn't have.
 
 ## 2 Rules and Mechanics
 
